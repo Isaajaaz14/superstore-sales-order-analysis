@@ -23,7 +23,7 @@ customer segments.
    segment analysis, and an Order Year slicer.
 
 ## Dashboard
-![Superstore Sales and Order Analysis Dashboard](images/Superstore%20Sales%20and%20Order%20Analysis%20Dashboard%202.png)
+![Superstore Sales and Order Analysis Dashboard](superstore-sales-order-analysis/images/Superstore%20Sales%20and%20Order%20Analysis%20Dashboard%202.png)
 
 ## Dashboard KPIs
 - Total Sales: $2.26M
